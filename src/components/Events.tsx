@@ -50,7 +50,7 @@ const Events = () => {
     <section id="event" className="py-20 px-4 bg-muted">
       <div className="container mx-auto max-w-6xl">
         <div className="flex flex-col items-center mb-12">
-          <h2 className="text-4xl font-bold text-primary">Ragam Kebutuhan</h2>
+          <h2 className="text-4xl font-bold text-primary">MACAM-MACAM</h2>
           <div className="h-1 w-24 bg-[#FEA500] mt-2 rounded-full"></div>
         </div>
         
